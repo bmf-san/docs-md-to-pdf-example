@@ -1,0 +1,10 @@
+{
+  "filters": {},
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+	"preset-japanese": true,
+	"preset-jtf-style": true,
+    "spellcheck-tech-word": true
+  }
+}
